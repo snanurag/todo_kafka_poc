@@ -1,1 +1,1 @@
-# todo_kafka_poc
+# POC of Kafka : Hight thruput message delivery guarantee.
